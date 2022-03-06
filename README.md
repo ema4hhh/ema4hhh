@@ -86,7 +86,7 @@
     <a style="margin-right: 20px">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=Password-Generator&theme=github_dark"/>
     </a>
-    <a style="margin-right: 20px;">
+    <a style="margin-right: 20px;" href="google.com">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=codigoflv&theme=github_dark"/>
     </a>
   </div>
