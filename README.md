@@ -12,7 +12,7 @@
 <div size='20px'> Hi! My name is Emanuel. Thank You for taking the time to view my GitHub Profile :smile: <br/>
   <b>Contact me!<b/> 
     <p>
-      Tel: +57 3161486128 <br/>
+      Tel: +57 3164776583 <br/>
       E-mail: ema4hhh@gmail.com
     </p>
 </div>
