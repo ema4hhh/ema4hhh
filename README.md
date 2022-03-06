@@ -13,7 +13,7 @@
   <div size='20px'> Hi! My name is Emanuel. Thank You for taking the time to view my GitHub Profile :smile: <br/>
     <b>Contact me!<b/> 
       <p>
-        Tel: +57 3164776583 <br/>
+        Tel: +57 316 4776583 <br/>
         E-mail: ema4hhh@gmail.com
       </p>
   </div>
@@ -73,6 +73,14 @@
   <div align="center">
 
   [![Node-practice](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=Node-practice&theme=github_dark)](https://github.com/ema4hhh/Node-practice)
+
+  
+  <div style="font-size: 14px; font-family: fira-code; color: rgba(255, 255, 255, .86)">
+  <p>Backend learning process with NodeJS; started on 4th February, 2022</p>
+  </div>
+
+  ###
+
   [![personal-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=personal-portfolio&theme=github_dark)](https://github.com/ema4hhh/personal-portfolio)
   [![To-do List](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=To-do-list&theme=github_dark)](https://github.com/ema4hhh/To-do-list)
   [![Password-generator](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=Password-generator&theme=github_dark)](https://github.com/ema4hhh/Password-Generator)
