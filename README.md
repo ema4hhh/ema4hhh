@@ -1,5 +1,5 @@
 
-<div style="background-color: #161d27; padding: 25px"> 
+<div style="background-color: #161d27; padding: 25px; font-family: arial"> 
   <div align="center">
     <img width="100px" height = "100px" src="https://sergal.org/mirror/assets/img/Arch_Logo.png" alt="cover" />
   </div>
@@ -30,6 +30,8 @@
   - 👯 I’m looking to collaborate on Open source projects, web apps & app developing 
 
   - 💬 Talk to me about Python, JavaScript, Linux & Open Source 
+
+  - 📣 I speak english and spanish
 
   <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href= https://www.python.org > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -66,35 +68,44 @@
   <br>
   <br>
   <br>
-  <hr>
+
+  ****
   
   <h1 align="center">Projects</h1>
   <br>
-  <div align="center">
-
-  [![Node-practice](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=Node-practice&theme=github_dark)](https://github.com/ema4hhh/Node-practice)
-
   
-  <div style="font-size: 14px; font-family: fira-code; color: rgba(255, 255, 255, .86)">
-  <p>Backend learning process with NodeJS; started on 4th February, 2022</p>
-  </div>
 
-  ###
+  ## <a href="https://github.com/ema4hhh/Node-practice">Node  Practice</a>
+  <p>Backend learning process with NodeJS; started on 26th February, 2022</p>
+  <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+  <br/>
 
-  [![personal-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=personal-portfolio&theme=github_dark)](https://github.com/ema4hhh/personal-portfolio)
-  [![To-do List](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=To-do-list&theme=github_dark)](https://github.com/ema4hhh/To-do-list)
-  [![Password-generator](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=Password-generator&theme=github_dark)](https://github.com/ema4hhh/Password-Generator)
-  [![codigoflv](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=codigoflv&theme=github_dark)](https://github.com/ema4hhh/codigoflv)
+  ## <a href="https://github.com/ema4hhh/personal-portfolio">Portfolio</a>
+  <p>Development of a porfolio where you can see more specificly who I am, developed with React on the front, and MUI for styles, this app doesn't contain any Back-end or database<p/>
+  <br/>
+
+  ## <a href="https://github.com/ema4hhh/To-do-list">To-do List</a>
+  <p>Development of a SPA using React for the Front-end and CSS for styling. In this app you can put your task to complete them later, usin local storage to save them.</p>
+
+  ✔ Web-site: <a href="ema4hhh.github.io/To-do-list/">To-do List</a>
+  <br/>
+  
+  ## <a href="https://github.com/ema4hhh/Password-Generator">Password generator</a>
+  <p>Development of a SPA using React for the Front-end and MUI for styling, express for Backend and Sequelize to connec with PostgreSQL. This app can be use to generate random passwords, it's secure because it's integrated a login system</p>
+  <br/>
+
+  ## <a href="https://github.com/juanestebanperezm/codigoflv">Código Sancocho</a>
+  <p>I helped to develop a developing focused web site that allows you to do challenges, certificate and compete against others. Started on 24th February, 2022</p>
+  
+  [![codigoflv](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=codigoflv&theme=github_dark)]()
   [![AiVirtualMouse](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=AiVirtualMouse&theme=github_dark)](https://github.com/ema4hhh/AiVirtualMouse)
 
-  </div>
-
   <br>
   <br>
 
-  <h1 align="center">Acknowledgements</h1>
-  <p align="center">First off all I'd like to thank my parents, beacause they were who helped me to reach this point, they were supported me all this time<p>
-  <p align="center">Now I'd like to thank my teacher <a href="https://github.com/andresf2448/andresf2448">Andres</a>, he introduced me to this wonderful world, without him, I probably wouldn't be here</p>
+  <h1 align="center" style="font-size: 25px">Acknowledgements</h1>
+  <p align="center" style="font-size: 14px">First off all I'd like to thank my parents, beacause they were who helped me to reach this point, they were supported me all this time.<br/>
+  Now I'd like to thank my teacher <a href="https://github.com/andresf2448/andresf2448">Andres</a>, he introduced me to this wonderful world, without him, I probably wouldn't be here.
 
   <br>
 
