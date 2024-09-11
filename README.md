@@ -73,29 +73,12 @@
   
   <h1 align="center">Projects</h1>
   <br>
-  
-
-  ## <a href="https://github.com/ema4hhh/Node-practice">Node  Practice</a>
-  <p>Backend learning process with NodeJS; started on 26th February, 2022</p>
-  <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-  <br/>
-
-  ## <a href="https://github.com/ema4hhh/personal-portfolio">Portfolio</a>
-  <p>Development of a porfolio where you can see more specificly who I am, developed with React on the front, and MUI for styles, this app doesn't contain any Back-end or database<p/>
-  <br/>
 
   ## <a href="https://github.com/ema4hhh/To-do-list">To-do List</a>
   <p>Development of a SPA using React for the Front-end and CSS for styling. In this app you can put your task to complete them later, usin local storage to save them.</p>
 
   ✔ Web-site: <a href="ema4hhh.github.io/To-do-list/">To-do List</a>
   <br/>
-  
-  ## <a href="https://github.com/ema4hhh/Password-Generator">Password generator</a>
-  <p>Development of a SPA using React for the Front-end and MUI for styling, express for Backend and Sequelize to connec with PostgreSQL. This app can be use to generate random passwords, it's secure because it's integrated a login system</p>
-  <br/>
-
-  ## <a href="https://github.com/juanestebanperezm/codigoflv">Código Sancocho</a>
-  <p>I helped to develop a developing focused web site that allows you to do challenges, certificate and compete against others. Started on 24th February, 2022</p>
   
   [![codigoflv](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=codigoflv&theme=github_dark)]()
   [![AiVirtualMouse](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=AiVirtualMouse&theme=github_dark)](https://github.com/ema4hhh/AiVirtualMouse)
