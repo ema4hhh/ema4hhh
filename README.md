@@ -1,101 +1,24 @@
+<h1 align="center">Hi 👋, I'm Emanuel</h1>
+<h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<div style="background-color: #161d27; padding: 25px; font-family: arial"> 
-  <div align="center">
-    <img width="100px" height = "100px" src="https://sergal.org/mirror/assets/img/Arch_Logo.png" alt="cover" />
-  </div>
+- 🔭 I’m currently working on [Gym-app](https://github.com/ema4hhh/gym-app)
 
-  <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-  <p align='center'>
+- 🌱 I’m currently learning **Astro, postgreSQL**
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ema4hhh.ema4hhh)
+- 💬 Ask me about **NextJS, Astro, Express, Python**
 
-  </p>
-  <div size='20px'> Hi! My name is Emanuel. Thank You for taking the time to view my GitHub Profile :smile: <br/>
-    <b>Contact me!<b/> 
-      <p>
-        Tel: +57 316 4776583 <br/>
-        E-mail: ema4hhh@gmail.com
-      </p>
-  </div>
+- 📫 How to reach me **ema4hhh@gmail.com**
 
-  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+- ⚡ Fun fact **I've been programming since I was 14 years old**
 
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/emanuel-castaño-cardona-5502a0233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel-castaño-cardona-5502a0233" height="30" width="40" /></a>
+<a href="https://instagram.com/emanuelcastanho_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emanuelcastanho_" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  - 🔭 I’m currently working on small projects on my own
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ema4hhh&show_icons=true&locale=en&layout=compact" alt="ema4hhh" /></p>
 
-  - 🌱 I’m currently learning Data Science, Web developing & Artificial intelligence 
-
-  - 👯 I’m looking to collaborate on Open source projects, web apps & app developing 
-
-  - 💬 Talk to me about Python, JavaScript, Linux & Open Source 
-
-  - 📣 I speak english and spanish
-
-  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <a href= https://www.python.org > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-  <a href= https://reactjs.org > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-  <a href= https://www.javascript.com > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-  <a><img width= "32px" src = "https://www.smith-consulting.com/portals/0/Images/DNN-Store/css.png"/></a>
-  <a><img width= "32px" src = "https://clipground.com/images/html5-logo-2.png"/></a>
-  <a href= nodejs.org > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-  <a href= https://redux.js.org > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-  <a href= https://www.postgresql.org > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-  <a href= https://www.linux.org > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-  <a href= http://expressjs.com > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-  <a href= https://mui.com/getting-started/installation/ > <img width = "32px" src = "https://brandeps.com/logo-download/M/Material-UI-logo-vector-01.svg"></a>
-
-
-  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-  <a href = 'https://www.github.com/ema4hhh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  <a href = "https://www.linkedin.com/in/emanuel-castaño-cardona-5502a0233/"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-
-  <br>
-  <br>
-  <br>
-
-  <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ema4hhh&count_private=true&show_icons=true&theme=github_dark&line_height=30&custom_title=My%20Github%20Stats" />
-  </a>
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ema4hhh&theme=github_dark&line_height=30&custom_title=Top%20Languages&layout=compact"
-  </a>
-
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-  ****
-  
-  <h1 align="center">Projects</h1>
-  <br>
-
-  ## <a href="https://github.com/ema4hhh/To-do-list">To-do List</a>
-  <p>Development of a SPA using React for the Front-end and CSS for styling. In this app you can put your task to complete them later, usin local storage to save them.</p>
-
-  ✔ Web-site: <a href="ema4hhh.github.io/To-do-list/">To-do List</a>
-  <br/>
-  
-  [![codigoflv](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=codigoflv&theme=github_dark)]()
-  [![AiVirtualMouse](https://github-readme-stats.vercel.app/api/pin/?username=ema4hhh&repo=AiVirtualMouse&theme=github_dark)](https://github.com/ema4hhh/AiVirtualMouse)
-
-  <br>
-  <br>
-
-  <h1 align="center" style="font-size: 25px">Acknowledgements</h1>
-  <p align="center" style="font-size: 14px">First off all I'd like to thank my parents, beacause they were who helped me to reach this point, they were supported me all this time.<br/>
-  Now I'd like to thank my teacher <a href="https://github.com/andresf2448/andresf2448">Andres</a>, he introduced me to this wonderful world, without him, I probably wouldn't be here.
-
-  <br>
-
-  <h4 align="center">Thanks for thaking the time of reviewing my profile<h4>
-
-  <br>
-  <br>
-  <br>
-  <footer align='right'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
-</div>
